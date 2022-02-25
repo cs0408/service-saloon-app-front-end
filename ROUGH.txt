@@ -1,0 +1,49 @@
+// install - npm install --save styled-components
+
+// install - npm install @mui/material @emotion/react @emotion/styled
+
+// install - npm install @material-ui/icons
+
+// install - npm install @material-ui/core
+
+// install - npm i react-router-dom
+
+============================================================================================================================>
+
+// Home - page
+
+    // Annoucement - component
+    // Navbar - component
+    // Slider - component
+    // Categories - component
+            // CategoryItem - componet
+    // Products - component
+            // Product - component
+    // Newsletter - component
+    // Footer - component
+
+=======================================================>
+
+// ProductList - page
+
+=======================================================>
+
+// SingleProductPage - page
+
+=======================================================>
+
+// Register and Login - page
+
+        // use scale up animation - only two steps
+                1. check file - animations/scale_up_animation
+                2. used scale_up_animation - used in user_credential_styled.js (inside - Logo)
+
+=======================================================>
+
+// Cart - page
+
+=======================================================>
+
+// create file - responsive.js => Make Responsive website
+
+============================================================================================================================>
